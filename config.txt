@@ -1,0 +1,8 @@
+
+1. npm init -y  
+2. npm i express  
+
+
+
+------to create file-----
+ echo > filename.js
